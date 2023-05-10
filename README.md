@@ -25,4 +25,5 @@ https://sms-activate.org/cn/download-app
 
 ## 4、OPEN API自行注册：
 https://chat.openai.com/chat 
-如果遇到IP被封，换一个节点路由，注册先输入邮箱、密码，验证手机号步骤时，到https://sms-activate.org/cn/download-appg购买一个手机号（印度尼西亚的便宜一些），手机号验证通过后即注册成功。然后就可以使用了，目前免费节点响应速度较慢，且不能在一小时能连续访问提问，如果有需要可以开通chatGPT plus（20美元/月)
+如果遇到IP被封，换一个节点路由，注册先输入邮箱、密码，验证手机号步骤时，到https://sms-activate.org/cn/download-appg
+购买一个手机号（印度尼西亚的便宜一些），手机号验证通过后即注册成功。然后就可以使用了，目前免费节点响应速度较慢，且不能在一小时能连续访问提问，如果有需要可以开通chatGPT plus（20美元/月)
