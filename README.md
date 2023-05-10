@@ -14,6 +14,7 @@ IOS/Mac 很麻烦，需要安装小火箭，小火箭安装教程：
 1）需要美区Apple ID ，并且购买了小火箭这个软件：ShadowRocket
 可以去这个ID发布页蹲下这个美区ID：
 https://www.fengche666.net/p/appleid1/
+
 或者自己注册一个美区ID（自行百度），并绑定PayPal支付才可以，自行购买这个软件。
 解决好网络的问题。
 ## 2、注册一个微软邮箱/Google邮箱
