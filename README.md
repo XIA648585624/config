@@ -8,7 +8,7 @@
 
 
 ## 1、访问外网
-VPN：https://muguacloud.lol/ 注册，填入我的邀请码:【MwVA】
+VPN：https://muguacloud.info/auth/login 注册，填入我的邀请码:【MwVA】
 安卓/windows 按照指引安装相应软件、购买套餐节点（支付宝支付），导入订阅配置，开启路由即可。
 IOS/Mac 很麻烦，需要安装小火箭，小火箭安装教程：
 1）需要美区Apple ID ，并且购买了小火箭这个软件：ShadowRocket
